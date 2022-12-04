@@ -1,1 +1,2 @@
-# T-rex
+# trex
+Juego del Trex en p5
